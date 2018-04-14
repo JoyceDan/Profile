@@ -1,0 +1,39 @@
+.background {
+  background: url("./images/background3.jpeg") no-repeat;
+  background-size: cover;
+  position: relative;
+  height:700px;
+}
+
+.background1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height:700px;
+  line-height: 50px;
+  text-align: center;
+  background:rgba(255,255,255,0.5);
+}
+
+.texts {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.text1 {
+   font-size: 24px;
+   ffont-family: "Courier New", Times, serif;
+}
+
+.text2 {
+  font-size: 30px;
+  font-family: "Courier New", Times, serif;
+}
+
+.text3 {
+  font-size: 38px;
+  font-family: "Courier New", Times, serif;
+  font-weight: bold;
+}
